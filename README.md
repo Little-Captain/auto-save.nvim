@@ -1,9 +1,11 @@
+
 <p align="center">
   <h2 align="center">🧶 auto-save.nvim</h2>
 </p>
 
 <p align="center">
-	Automatically save your changes in NeoVim
+	Automatically save your changes in NeoVim.
+	Forked from [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim)
 </p>
 
 <p align="center">
