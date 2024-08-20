@@ -5,7 +5,7 @@
 
 <p align="center">
 	Automatically save your changes in NeoVim.
-	Forked from [pocco81/auto-save.nvim](https://github.com/pocco81/auto-save.nvim)
+	<a href="https://github.com/Pocco81/auto-save.nvim">Forked from</a>
 </p>
 
 <p align="center">
